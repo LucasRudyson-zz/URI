@@ -8,4 +8,5 @@ int main(){
 	scanf("%lf",&n3);
 	printf("NUMBER = %d\n",n1);
 	printf("SALARY = U$ %.2lf\n",n2*n3);
+	return 0;
 }
